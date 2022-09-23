@@ -2,7 +2,6 @@
 
 Snapshat Like project for [EFFICOM](https://www.google.com)
 This is a school project !
-Efficom : https://www.efficom.fr/
 
 ## Getting Started
 
