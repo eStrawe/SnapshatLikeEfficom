@@ -1,6 +1,6 @@
 # snapshat_like
 
-Snapshat Like project for [EFFICOM](https://www.google.com)
+Snapshat Like project for [EFFICOM](https://www.efficom.fr)
 This is a school project !
 
 ## Getting Started
